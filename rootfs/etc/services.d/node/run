@@ -1,0 +1,3 @@
+#!/usr/bin/with-contenv bash
+echo "[INFO] Starting Node.js WUHAa server"
+exec node /app/index.js

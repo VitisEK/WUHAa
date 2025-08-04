@@ -1,0 +1,14 @@
+{
+  "name": "WUHAa",
+  "version": "1.0.0",
+  "slug": "wuhaa",
+  "description": "Weather Underground Home Assistant addon",
+  "startup": "services",
+  "boot": "auto",
+  "init": false,
+  "host_network": true,
+  "privileged": [],
+  "options": {},
+  "schema": {},
+  "image": "local/ha-addon-wuhaa"
+}

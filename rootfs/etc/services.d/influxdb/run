@@ -1,0 +1,3 @@
+#!/usr/bin/with-contenv bash
+echo "[INFO] Starting InfluxDB v3"
+exec /usr/bin/influxdb3 --config /app/influx.toml
