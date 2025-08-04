@@ -7,7 +7,6 @@
   "boot": "auto",
   "init": false,
   "host_network": true,
-  "privileged": [],
   "options": {},
   "schema": {},
   "image": "local/ha-addon-wuhaa"
